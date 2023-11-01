@@ -1,5 +1,9 @@
-studentId: speaker01
-project: speaker01-green
+# studentId: speaker01
+# project: speaker01-green
+# clusterAppsDomain: apps.cluster-w97m7.w97m7.sandbox753.opentlc.com
+
+studentId: student23
+project: student23-green
 clusterAppsDomain: apps.cluster-w97m7.w97m7.sandbox753.opentlc.com
 
 image:
